@@ -20,7 +20,7 @@ display_song_data <- function(data) {
 }
 
 # Sample list
-genres <- list("Pop", "Rock", "Hip-Hop", "Electronic")
+genres <- list("Pop", "Bed Pop", "Indie")
 
 # Loop to display genres
 print("Genres:")
